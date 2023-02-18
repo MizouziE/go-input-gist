@@ -2,7 +2,7 @@
 
 The purpose of this was to quickly try out some theory for a larger project and see how proficient I am on the command line.
 
-See the repo by [clinking here](https://github.com/MizouziE/go-input-gist/).
+See the repo by [clicking here](https://github.com/MizouziE/go-input-gist/).
 
 ## Hypothesis
 
